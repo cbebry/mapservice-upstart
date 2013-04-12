@@ -21,8 +21,8 @@ When the script is configured to your liking, place it in the following director
 If you kept the script the same name ```mapservice.conf``` then you can run the following self-descriptive commands:  
 
 ```
-service mapservice start
-service mapservice stop
+start mapservice
+stop  mapservice
 ```
 
 You're done! Move on.
